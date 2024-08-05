@@ -113,7 +113,7 @@
     },
     {
       "alias": "加购有礼-JK",
-      "name": "jd_wxCollectionActivity.py",
+      "name": "jd_wxCollectionActivity.js",
       "head_url": "wxCollectionActivity",
       "value": [
         {
