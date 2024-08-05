@@ -954,7 +954,7 @@
     },
     {
       "alias": "入会开卡领取礼包通用",
-      "name": "jd_card_force.js",
+      "name": "jd_OpenCard.js",
       "head_url": "wxInviteActivity/openCard",
       "value": [
         {
